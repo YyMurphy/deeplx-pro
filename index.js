@@ -14,7 +14,7 @@ const headers = {
   'sec-fetch-dest': 'empty',
   'sec-fetch-mode': 'cors',
   'sec-fetch-site': 'same-site',
-  'cookie': '72564efc-595b-4273-ba06-131ca8429db2'  //`dl_session=${process.env.DL_SESSION}`, // 从环境变量中读取dl_session
+  'cookie': '72564efc-595b-4273-ba06-131ca8429db2',  //`dl_session=${process.env.DL_SESSION}`, // 从环境变量中读取dl_session
   'Referer': 'https://www.deepl.com/',
   'Referrer-Policy': 'strict-origin-when-cross-origin'
 };
